@@ -19,6 +19,7 @@ const ProfileWrap = styled('div')`
       width: 120px;
       height: 120px;
       display: block;
+
       border: 5px solid #ffffff;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
       background-color: #fcf5ed;
